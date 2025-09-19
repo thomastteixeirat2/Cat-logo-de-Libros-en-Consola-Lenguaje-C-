@@ -11,8 +11,7 @@ Este proyecto permite gestionar un catálogo de libros en consola. Permite:
 - Mostrar todos los libros
 - Editar el contenido de páginas por libro
 
-Incluye un libro tutorial por defecto con instrucciones y curiosidades de DOOM.
-
+Incluye un libro tutorial por defecto con instrucciones.
 
 ¿Cómo se compila y ejecuta?
 
